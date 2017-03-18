@@ -2,6 +2,7 @@
     "name": "rev/sway-vendor-user-wrapper",
     "description": "Wrapper for SWUser",
     "type": "sf-package",
+    "license": "None",
     "authors": [
         {
             "name": "Reverze",
