@@ -1,0 +1,9 @@
+{
+    "framework": {
+        "service": {
+            "swuser": {
+                "class": "\\Sway\\Vendor\\UserWrapper\\User2"
+            }
+        }
+    }
+}
