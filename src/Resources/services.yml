@@ -1,0 +1,7 @@
+framework:
+    service:
+        swayuser2:
+            class: Sway\Vendor\UserWrapper\User
+engine:
+    test: value32
+    test2: dasdas

@@ -1,0 +1,17 @@
+{
+    "name": "rev/sway-vendor-user-wrapper",
+    "description": "Wrapper for SWUser",
+    "type": "sf-package",
+    "license": "None",
+    "authors": [
+        {
+            "name": "Reverze",
+            "email": "hawkmedia24@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Sway\\Vendor\\UserWrapper\\": "src/"
+        }
+    }
+}
